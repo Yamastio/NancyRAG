@@ -92,8 +92,13 @@ streamlit run rag_streamlit_app.py
 
 > **Note:** Ensure that the Ollama models are running before starting any app.
 
+### Terminal Interface
 ![Terminal Interface](images/terminal-interface.png)
+
+### Gradio Interface
 ![Gradio Interface](images/gradio-interface.png)
+
+### Streamlit Interface
 ![Streamlit Interface](images/streamlit-interface.png)
 
 ---
