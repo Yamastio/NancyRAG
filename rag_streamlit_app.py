@@ -6,7 +6,7 @@ import os
 
 # --- Inisialisasi model ---
 ollama_url = os.environ.get("OLLAMA_API_BASE", "http://localhost:11434")
-model = OllamaLLM(model="llama3.2:1b", base_url=ollama_url)
+model = OllamaLLM(model="llama3.2:3b", base_url=ollama_url)
 
 # --- Template prompt ---
 template = """
